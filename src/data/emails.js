@@ -4,7 +4,8 @@ export default [
     sender: `Zoom`,
     title: `Cloud Recording - Nicolas Marcora's Personal Meeting Room is now available`,
     starred: false,
-    read: true
+    read: true,
+    body: 'lorevdhsfjlvgsdkbjldhfbvkjdfnbjkdfbvhldfbijspfdbjsdfkj;vfds;jkfdjk;fdjkbvisupiervudbfdjkbfdjsbfjdi'
   },
   {
     id: 2,
